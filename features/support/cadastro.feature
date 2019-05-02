@@ -10,9 +10,9 @@ Funcionalidade: Cadastro
 	Cenario: Efetuar cadastro com sucesso
 		Dado que eu esteja na pagina da loja Automation Practice
 		Quando eu efetuar o cadastro com sucesso
-		Entao as informações cadastradas serão exibidas
+		Entao verei a mensagem 'MY ACCOUNT'
 @editar
 	Cenario: Editar perfil cadastrado
 		Dado que eu esteja logado com usuário válido no site Automation Practice
 		Quando acessar e editar as informações pessoais
-		Entao verei a mensagem 'Your personal information has been successfully updated.'
+		Entao verei a mensagem 'Your personal information has been successfully updated.' de atualização.
